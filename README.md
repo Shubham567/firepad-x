@@ -88,6 +88,8 @@ class MyEditorAdapter implements IEditorAdapter {
 
 Similar thing can be done for Database as well by implementing `IDatabaseAdapter` interface. Keep in mind, you might also need to implement event handlers and event triggers depending upon nature of the adapters.
 
+A beginner friendly guide on Collaborative Editor Monaco Editor with Firebase available [here](https://dev.to/shubham567/collaborative-coding-in-monaco-editor-4foa)
+
 ## Development
 
 We have used [`yarn`](https://yarnpkg.com/) as our package manager through out the project.
